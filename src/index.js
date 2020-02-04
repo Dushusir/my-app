@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-//demo学习 测试01
+//demo学习 测试02
 // 游戏每个格子,使用button渲染
 //方法一: Square组件的class组件写法
 /* 
